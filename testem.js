@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+/*jshint asi:true, laxcomma:true */
+
 var log = require('winston')
 var program = require('commander')
 var progOptions = program
